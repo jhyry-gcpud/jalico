@@ -1,1 +1,7 @@
 target/
+.classpath
+bin/
+build/
+.gradle/
+.project
+.settings/org.eclipse.buildship.core.prefs
